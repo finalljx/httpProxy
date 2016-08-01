@@ -1,0 +1,27 @@
+{
+  "name": "proxy",
+  "description": "Simplified HTTP cross domain request proxy. support method post,get,put,delte ",
+  "tags": [
+    "http",
+    "proxy"
+  ],
+  "version": "0.1.0",
+  "author": {
+    "name": "ljx",
+    "email": "finalljx@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finalljx/httpProxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/finalljx/httpProxy/issues"
+  },
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies":{
+    "request":">=2.72.0"
+  }
+}
